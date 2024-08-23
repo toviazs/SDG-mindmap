@@ -8,55 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4080366fcddaa467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Métodos de Evaluación de Desempeño de Personal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0622d3255bbffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Técnicas de Evaluación de Desempeño.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a9d84e58e243e098",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proceso de Implementación de un SED.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cde5fd67212e0a53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Métodos Tradicionales de ED.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Métodos Tradicionales de ED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Métodos Tradicionales de ED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Métodos Tradicionales de ED.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,14 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cde5fd67212e0a53",
+  "active": "a9d84e58e243e098",
   "lastOpenFiles": [
-    "Proceso de Implementación de un SED.md",
-    "Métodos Tradicionales de ED.md",
-    "Sistema de Evaluación de Desempeño.md",
-    "Evaluación de Desempeño.md",
     "Técnicas de Evaluación de Desempeño.md",
+    "Sistema de Evaluación de Desempeño.md",
+    "Proceso de Implementación de un SED.md",
     "Métodos de Evaluación de Desempeño de Personal.md",
+    "Métodos Tradicionales de ED.md",
+    "Evaluación de Desempeño.md",
     "Evaluación de Desempeño de Personal.md",
     "Organización.md",
     "Información Gerencial (MIS).md",
