@@ -8,14 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0a7ab325acf075e",
+            "id": "4080366fcddaa467",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Métodos de Evaluación de Desempeño de Personal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b0622d3255bbffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Técnicas de Evaluación de Desempeño.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9d84e58e243e098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proceso de Implementación de un SED.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cde5fd67212e0a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Métodos Tradicionales de ED.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Métodos Tradicionales de ED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Métodos Tradicionales de ED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Métodos Tradicionales de ED.md"
+              }
             }
           },
           {
@@ -134,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +192,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6fe74e36062c9cd",
+  "active": "cde5fd67212e0a53",
   "lastOpenFiles": [
+    "Proceso de Implementación de un SED.md",
+    "Métodos Tradicionales de ED.md",
+    "Sistema de Evaluación de Desempeño.md",
+    "Evaluación de Desempeño.md",
+    "Técnicas de Evaluación de Desempeño.md",
+    "Métodos de Evaluación de Desempeño de Personal.md",
+    "Evaluación de Desempeño de Personal.md",
     "Organización.md",
     "Información Gerencial (MIS).md",
     "Ficha de Proceso.md",
@@ -173,13 +226,6 @@
     "Modelo SCOR.md",
     "Pasted image 20240823144500.png",
     "SCOR Nivel 1 - Ordenador Jerárquico.md",
-    "SCOR Pseudo Nivel 4 - Implementación.md",
-    "Cadena de Suministro.md",
-    "ADM.md",
-    "Fase Preliminar.md",
-    "Arquitectura Empresarial.md",
-    "Proceso.md",
-    "SCOR Nivel 3 - Elementos de Proceso.md",
     "Pasted image 20240823083659.png",
     "Pasted image 20240823083645.png",
     "Pasted image 20240823075813.png",
