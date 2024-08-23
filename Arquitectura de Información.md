@@ -1,0 +1,1 @@
+Identifica en dónde se mantiene y cómo se accede información importante de la empresa que soporta el negocio. (Ejemplo: motor de base de datos, tablas, estructuras de datos)

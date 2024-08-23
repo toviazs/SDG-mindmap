@@ -1,0 +1,1 @@
+Las lecciones aprendidas pueden definirse como el [[Conocimiento|conocimiento]] adquirido sobre un [[proceso]] o sobre una o varias experiencias. 

@@ -1,0 +1,1 @@
+Los insumos o entradas son los recursos, información, materiales o condiciones que justifican y permiten la ejecución del proceso. Son esenciales para iniciar el proceso y son necesarios para que las actividades se desarrollen de manera efectiva. 

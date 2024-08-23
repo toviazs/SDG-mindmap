@@ -1,0 +1,4 @@
+- **Medición y Ajuste Rápido**: Permiten la medición constante (a veces en tiempo real), facilitando ajustes rápidos en estrategias o procesos.
+- **Adaptación al Mercado**: Ayudan a adaptar el negocio a cambios en el mercado, competencia y nuevas oportunidades.
+- **Motivación del Personal**: Involucran a empleados al compartir datos y considerar sus comentarios, motivándolos a alcanzar objetivos.
+- **Tranquilidad para los Directivos**: Ofrecen tranquilidad a inversores y altos directivos, que no están involucrados en el día a día, al proporcionar una visión clara del rendimiento.

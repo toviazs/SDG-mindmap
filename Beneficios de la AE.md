@@ -1,0 +1,5 @@
+- Mejora continua de procesos.
+- Herramientas para decisiones estratégicas.
+- Identificación de áreas de oportunidad y preocupación.
+- Evaluación del impacto de cambios en la organización y en clientes.
+- Cumplimiento de objetivos de calidad como ISO-9000.

@@ -1,0 +1,1 @@
+Es una tecnología que mapea, automatiza, ejecuta y controla los [[Proceso de Negocio|procesos empresariales]], mejorando la transparencia, la eficiencia y proporcionando informes de rendimiento.

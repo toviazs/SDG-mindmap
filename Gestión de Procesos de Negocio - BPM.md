@@ -1,0 +1,1 @@
+Es la gestión de [[Proceso de Negocio|procesos de negocio]] que busca mejorar el rendimiento empresarial mediante la organización y normalización de los procesos.

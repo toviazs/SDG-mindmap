@@ -1,0 +1,1 @@
+Aunque no es formalmente parte del modelo SCOR, este nivel se refiere a la implementación práctica de los procesos detallados en los Niveles 1, 2 y 3. Aquí es donde se realizan las configuraciones específicas, se integran sistemas de información, se capacita al personal, y se ajustan los procesos para alinearlos con las necesidades operativas reales de la organización.

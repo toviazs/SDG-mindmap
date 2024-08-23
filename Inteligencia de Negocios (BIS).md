@@ -1,0 +1,1 @@
+**Inteligencia de Negocios (BIS)** se refiere a los datos y herramientas que ayudan a los gerentes a tomar decisiones informadas. Los sistemas de inteligencia de negocios no solo son útiles para la gestión de nivel medio, sino también para niveles superiores, que se centran en aspectos estratégicos y tendencias a largo plazo.

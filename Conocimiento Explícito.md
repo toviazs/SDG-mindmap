@@ -1,0 +1,1 @@
+Aquel tipo de [[Conocimiento|conocimiento]] que puede ser fácilmente articulado, codificado y transmitido. Se caracteriza por ser formal, sistemático y documentado, lo que facilita su transferencia y almacenamiento.

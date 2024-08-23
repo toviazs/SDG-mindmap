@@ -1,0 +1,1 @@
+Sistemas o aplicaciones de software que proporcionan las funciones requeridas por el negocio. 

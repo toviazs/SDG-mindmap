@@ -1,0 +1,1 @@
+Es una notación visual que usa símbolos y elementos gráficos para representar los [[Proceso de Negocio|procesos de negocio]], facilitando su comprensión y análisis.

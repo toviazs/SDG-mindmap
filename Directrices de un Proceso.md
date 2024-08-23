@@ -1,0 +1,1 @@
+Las directrices son las normas, pautas y principios que deben seguirse para asegurar que el proceso se lleva a cabo de manera correcta y eficiente. Estas directrices deben ser claras, factibles de cumplir, no interpretables (para evitar ambigüedades) y de obligado cumplimiento. 

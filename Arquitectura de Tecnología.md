@@ -1,0 +1,1 @@
+Es el ambiente de tecnología requerido por los sistemas de aplicación y por la información de la empresa. 

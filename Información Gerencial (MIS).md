@@ -1,0 +1,3 @@
+Los **Sistemas de Información Gerencial (MIS)** son sistemas que ayudan a la gerencia de nivel medio en la supervisión, control y toma de decisiones. Estos sistemas proporcionan informes sobre el desempeño actual de la empresa, utilizando datos de los **Sistemas de Procesamiento de Transacciones (TPS)**.
+
+Los MIS generan informes regulares que permiten a los gerentes evaluar el rendimiento de la empresa, generalmente a nivel semanal, mensual o anual. Aunque son útiles para responder preguntas de rutina, los MIS son menos flexibles y tienen capacidad analítica limitada, utilizando principalmente resúmenes y comparaciones en lugar de modelos matemáticos complejos.

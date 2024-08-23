@@ -1,0 +1,3 @@
+Los **Sistemas de Procesamiento de Transacciones (TPS)** registran y gestionan las transacciones diarias de una empresa, como ventas, pagos, y reservas. Son fundamentales para responder preguntas rutinarias, como el estado del inventario o los pagos realizados. Los TPS alimentan otros sistemas, como contabilidad y recursos humanos, con datos importantes.
+
+Estos sistemas son tan cruciales que si fallan, pueden detener las operaciones de una empresa y causar problemas mayores.

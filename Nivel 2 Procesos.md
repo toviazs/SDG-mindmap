@@ -1,0 +1,1 @@
+El segundo nivel de ordenamiento considera una agrupación de subprocesos en procesos.

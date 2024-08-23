@@ -1,0 +1,5 @@
+Specific (Específico)
+Measurable (Medible)
+Achievable (Alcanzable)
+Realistic (Realista)
+Timely (Acotado en el tiempo)

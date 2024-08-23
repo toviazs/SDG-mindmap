@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "bfd43f949e59fef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb1b49e680014fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0a7ab325acf075e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "791fafaac0868461",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8de319508efb2a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90e096a5fdac279a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94c1aa970579d1b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58cbb0b41673e005",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "1f0d52d7c88e8cb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d388e72ce7a7db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e067c104aa87aef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83b3292cac8a23ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06625ad1611a4416",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e0f2d565e89593e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6fe74e36062c9cd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6fe74e36062c9cd",
+  "lastOpenFiles": [
+    "Organización.md",
+    "Información Gerencial (MIS).md",
+    "Ficha de Proceso.md",
+    "Gestión.md",
+    "Gestión del Conocimiento.md",
+    "Ciclo de Gestión del Conocimiento.md",
+    "Conocimiento.md",
+    "Proceso SECI.md",
+    "B - Arquitectura de Negocio.md",
+    "Modelo de Negocio.md",
+    "Sistema de Operaciones.md",
+    "H - Gestión de Cambios de la Arquitectura.md",
+    "Arquitectura de Negocio.md",
+    "Business Model Canvas.md",
+    "Pasted image 20240823155155.png",
+    "Lecciones Aprendidas.md",
+    "Conocimiento Tácito.md",
+    "Conocimiento Explícito.md",
+    "Pasted image 20240823152151.png",
+    "Pasted image 20240823150958.png",
+    "Pasted image 20240823150945.png",
+    "Pasted image 20240823150214.png",
+    "Modelo SCOR.md",
+    "Pasted image 20240823144500.png",
+    "SCOR Nivel 1 - Ordenador Jerárquico.md",
+    "SCOR Pseudo Nivel 4 - Implementación.md",
+    "Cadena de Suministro.md",
+    "ADM.md",
+    "Fase Preliminar.md",
+    "Arquitectura Empresarial.md",
+    "Proceso.md",
+    "SCOR Nivel 3 - Elementos de Proceso.md",
+    "Pasted image 20240823083659.png",
+    "Pasted image 20240823083645.png",
+    "Pasted image 20240823075813.png",
+    "descripcion-grafica-proceso - Copy.jpg"
+  ]
+}

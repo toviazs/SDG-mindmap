@@ -1,0 +1,4 @@
+- Conocimiento del rol de AE en la gestión por procesos.
+- Uso de herramientas BPA/EA.
+- Aplicación de metodologías y técnicas específicas de AE.
+- Simulación y análisis de procesos.

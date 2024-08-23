@@ -1,0 +1,5 @@
+- Implantación de tecnologías como BPM, SOA y motores de reglas de negocio.
+- Análisis de impacto en procesos y sistemas.
+- Desarrollo de sistemas más integrados.
+- Optimización de procesos y reingeniería.
+- Soporte en benchmarking, reestructuración organizacional, y gestión de competencias.

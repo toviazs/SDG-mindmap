@@ -1,0 +1,1 @@
+Los outputs o salidas son los resultados o productos obtenidos al final del proceso. Estos outputs deben cumplir con ciertos estándares de calidad y estar alineados con las expectativas del cliente o usuario final. 

@@ -1,0 +1,1 @@
+En el tercer nivel se representan los distintos Procesos de la SC de manera más detallada descomponiendo las Categorías en Elementos de Procesos (Process Elements). Estos se presentan en secuencia lógica (con rectángulos y flechas) con entradas (inputs) y salidas (outputs) de Información y Materiales.

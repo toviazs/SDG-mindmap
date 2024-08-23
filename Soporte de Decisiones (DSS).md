@@ -1,0 +1,3 @@
+Los **Sistemas de Soporte de Decisiones (DSS)** ayudan a tomar decisiones no rutinarias, enfocándose en problemas únicos y cambiantes. A diferencia de los **MIS**, los DSS responden preguntas complejas y no predefinidas, como el impacto de duplicar ventas o retrasar proyectos.
+
+Los DSS utilizan información tanto interna como externa (por ejemplo, precios de acciones) y emplean modelos para analizar datos, permitiendo a los usuarios interactuar directamente con ellos.

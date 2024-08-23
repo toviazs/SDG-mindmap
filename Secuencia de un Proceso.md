@@ -1,0 +1,1 @@
+La secuencia se refiere al orden y la estructura en la que se deben ejecutar las actividades dentro del proceso. Es la hoja de ruta que guía la ejecución del proceso hacia la obtención de los resultados esperados. 
