@@ -11,9 +11,56 @@
             "id": "a9d84e58e243e098",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Proceso de Implementación de un SED.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "b378ea62f99c1f52"
+          }
+        ]
+      },
+      {
+        "id": "5ee4e44afe79340e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa95d55700fa73f0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Proceso de Implementación de un SED.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "b378ea62f99c1f52"
           }
         ]
       }
@@ -81,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Proceso de Implementación de un SED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Proceso de Implementación de un SED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Proceso de Implementación de un SED.md"
+              }
             }
           },
           {
@@ -147,15 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9d84e58e243e098",
+  "active": "90e096a5fdac279a",
   "lastOpenFiles": [
-    "Técnicas de Evaluación de Desempeño.md",
-    "Sistema de Evaluación de Desempeño.md",
+    "Arquitectura de Negocio.md",
+    "Arquitectura de Tecnología.md",
     "Proceso de Implementación de un SED.md",
-    "Métodos de Evaluación de Desempeño de Personal.md",
-    "Métodos Tradicionales de ED.md",
+    "Sistema de Evaluación de Desempeño.md",
     "Evaluación de Desempeño.md",
     "Evaluación de Desempeño de Personal.md",
+    "Métodos de Evaluación de Desempeño de Personal.md",
+    "Técnicas de Evaluación de Desempeño.md",
+    "Métodos Tradicionales de ED.md",
     "Organización.md",
     "Información Gerencial (MIS).md",
     "Ficha de Proceso.md",
@@ -168,7 +221,6 @@
     "Modelo de Negocio.md",
     "Sistema de Operaciones.md",
     "H - Gestión de Cambios de la Arquitectura.md",
-    "Arquitectura de Negocio.md",
     "Business Model Canvas.md",
     "Pasted image 20240823155155.png",
     "Lecciones Aprendidas.md",
@@ -180,7 +232,6 @@
     "Pasted image 20240823150214.png",
     "Modelo SCOR.md",
     "Pasted image 20240823144500.png",
-    "SCOR Nivel 1 - Ordenador Jerárquico.md",
     "Pasted image 20240823083659.png",
     "Pasted image 20240823083645.png",
     "Pasted image 20240823075813.png",
